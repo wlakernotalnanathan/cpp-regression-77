@@ -6,3 +6,5 @@ Basic slope-intercept coefficients solver in C++.
 Clone this project and look at the source files:
 - `main.cpp`
 - `regression.h`
+
+*Initialized by wlakernotalnanathan workspace automation.*
