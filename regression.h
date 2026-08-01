@@ -1,0 +1,1 @@
+double getSlope() { return 1.5; }
